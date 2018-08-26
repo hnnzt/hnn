@@ -1,0 +1,56 @@
+﻿生成启动时间为 2018/3/3 17:31:14。
+     1>项目“C:\Users\lenovo、\documents\visual studio 2013\Projects\哈希表\哈希表\哈希表.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt HT.c test.c
+         test.c
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\哈希表\哈希表\test.c(8): warning C4047: “函数”:“K”与“int”的间接级别不同
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\哈希表\哈希表\test.c(8): warning C4024: “InsertHashBucketUnique”: 形参和实参 2 的类型不同
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\哈希表\哈希表\test.c(8): warning C4047: “函数”:“V”与“int”的间接级别不同
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\哈希表\哈希表\test.c(8): warning C4024: “InsertHashBucketUnique”: 形参和实参 3 的类型不同
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\哈希表\哈希表\test.c(9): warning C4047: “函数”:“K”与“int”的间接级别不同
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\哈希表\哈希表\test.c(9): warning C4024: “InsertHashBucketUnique”: 形参和实参 2 的类型不同
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\哈希表\哈希表\test.c(9): warning C4047: “函数”:“V”与“int”的间接级别不同
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\哈希表\哈希表\test.c(9): warning C4024: “InsertHashBucketUnique”: 形参和实参 3 的类型不同
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\哈希表\哈希表\test.c(10): warning C4047: “函数”:“K”与“int”的间接级别不同
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\哈希表\哈希表\test.c(10): warning C4024: “InsertHashBucketUnique”: 形参和实参 2 的类型不同
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\哈希表\哈希表\test.c(10): warning C4047: “函数”:“V”与“int”的间接级别不同
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\哈希表\哈希表\test.c(10): warning C4024: “InsertHashBucketUnique”: 形参和实参 3 的类型不同
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\哈希表\哈希表\test.c(11): warning C4047: “函数”:“K”与“int”的间接级别不同
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\哈希表\哈希表\test.c(11): warning C4024: “InsertHashBucketUnique”: 形参和实参 2 的类型不同
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\哈希表\哈希表\test.c(11): warning C4047: “函数”:“V”与“int”的间接级别不同
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\哈希表\哈希表\test.c(11): warning C4024: “InsertHashBucketUnique”: 形参和实参 3 的类型不同
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\哈希表\哈希表\test.c(14): warning C4047: “函数”:“K”与“int”的间接级别不同
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\哈希表\哈希表\test.c(14): warning C4024: “DeleteHashBucketUnique”: 形参和实参 2 的类型不同
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\哈希表\哈希表\test.c(15): warning C4047: “函数”:“K”与“int”的间接级别不同
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\哈希表\哈希表\test.c(15): warning C4024: “FindHashBucket”: 形参和实参 2 的类型不同
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\哈希表\哈希表\test.c(16): warning C4047: “函数”:“K”与“int”的间接级别不同
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\哈希表\哈希表\test.c(16): warning C4024: “FindHashBucket”: 形参和实参 2 的类型不同
+         HT.c
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\哈希表\哈希表\ht.c(15): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\哈希表\哈希表\ht.c(29): warning C4033: “InsertHashBucketUnique”必须返回值
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\哈希表\哈希表\ht.c(46): warning C4033: “InsertHashBucketUnique”必须返回值
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\哈希表\哈希表\ht.c(62): warning C4033: “DeleteHashBucketUnique”必须返回值
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\哈希表\哈希表\ht.c(87): warning C4033: “DeleteHashBucketEqual”必须返回值
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\哈希表\哈希表\ht.c(121): warning C4033: “FindHashBucket”必须返回值
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\哈希表\哈希表\ht.c(139): warning C4033: “ChechCapacity”必须返回值
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\哈希表\哈希表\ht.c(152): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\哈希表\哈希表\ht.c(184): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\哈希表\哈希表\ht.c(200): warning C4047: “初始化”:“PNode”与“PNode *”的间接级别不同
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\哈希表\哈希表\ht.c(206): warning C4047: “初始化”:“PNode”与“PNode *”的间接级别不同
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\哈希表\哈希表\ht.c(215): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\哈希表\哈希表\ht.c(231): warning C4018: “>”: 有符号/无符号不匹配
+         正在生成代码...
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\哈希表\哈希表\ht.c(80): warning C4715: “DeleteHashBucketUnique”: 不是所有的控件路径都返回值
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\哈希表\哈希表\ht.c(116): warning C4715: “DeleteHashBucketEqual”: 不是所有的控件路径都返回值
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\哈希表\哈希表\ht.c(134): warning C4715: “FindHashBucket”: 不是所有的控件路径都返回值
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\哈希表\哈希表\ht.c(56): warning C4716: “InsertHashBucketUnique”: 必须返回一个值
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\哈希表\哈希表\ht.c(174): warning C4715: “ChechCapacity”: 不是所有的控件路径都返回值
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\lenovo、\documents\visual studio 2013\Projects\哈希表\Debug\哈希表.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\lenovo、\documents\visual studio 2013\Projects\哈希表\Debug\哈希表.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\lenovo、\documents\visual studio 2013\Projects\哈希表\Debug\哈希表.lib" /MACHINE:X86 Debug\HT.obj
+         Debug\test.obj
+         哈希表.vcxproj -> C:\Users\lenovo、\documents\visual studio 2013\Projects\哈希表\Debug\哈希表.exe
+     1>已完成生成项目“C:\Users\lenovo、\documents\visual studio 2013\Projects\哈希表\哈希表\哈希表.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.47
