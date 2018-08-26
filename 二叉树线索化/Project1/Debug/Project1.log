@@ -1,0 +1,53 @@
+﻿生成启动时间为 2018/2/26 17:24:06。
+     1>项目“c:\Users\lenovo、\documents\visual studio 2013\Projects\二叉树1\Project1\Project1.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt Treenode.c test.c
+         test.c
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\二叉树1\project1\test.c(11): fatal error C1075: 与左侧的 大括号“{”(位于“c:\users\lenovo、\documents\visual studio 2013\projects\二叉树1\project1\test.c(4)”)匹配之前遇到文件结束
+         Treenode.c
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\二叉树1\project1\treenode.c(6): warning C4047: “函数”:“PNode *”与“PNode **”的间接级别不同
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\二叉树1\project1\treenode.c(6): warning C4024: “_CreateBinTree”: 形参和实参 1 的类型不同
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\二叉树1\project1\treenode.c(14): error C2086: “PNode pRoot”: 重定义
+                 c:\users\lenovo、\documents\visual studio 2013\projects\二叉树1\project1\treenode.c(13) : 参见“pRoot”的声明
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\二叉树1\project1\treenode.c(14): error C2143: 语法错误 : 缺少“;”(在“->”的前面)
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\二叉树1\project1\treenode.c(15): error C2086: “PNode pRoot”: 重定义
+                 c:\users\lenovo、\documents\visual studio 2013\projects\二叉树1\project1\treenode.c(13) : 参见“pRoot”的声明
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\二叉树1\project1\treenode.c(15): error C2143: 语法错误 : 缺少“;”(在“->”的前面)
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\二叉树1\project1\treenode.c(18): error C2061: 语法错误: 标识符“BuyNode”
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\二叉树1\project1\treenode.c(18): error C2059: 语法错误:“;”
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\二叉树1\project1\treenode.c(18): error C2059: 语法错误:“类型”
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\二叉树1\project1\treenode.c(38): error C2082: 形参“prev”的重定义
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\二叉树1\project1\treenode.c(44): warning C4047: “=”:“BinTreeNode *”与“PNode *”的间接级别不同
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\二叉树1\project1\treenode.c(50): warning C4047: “=”:“BinTreeNode *”与“PNode *”的间接级别不同
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\二叉树1\project1\treenode.c(53): warning C4047: “初始化”:“PNode *”与“PNode”的间接级别不同
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\二叉树1\project1\treenode.c(57): warning C4047: “函数”:“PNode *”与“PNode **”的间接级别不同
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\二叉树1\project1\treenode.c(57): warning C4024: “_PreOrderThd”: 形参和实参 2 的类型不同
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\二叉树1\project1\treenode.c(61): warning C4047: “函数”:“PNode *”与“PNode **”的间接级别不同
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\二叉树1\project1\treenode.c(61): warning C4024: “_PreOrderThd”: 形参和实参 2 的类型不同
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\二叉树1\project1\treenode.c(80): warning C4047: “函数”:“PNode *”与“PNode **”的间接级别不同
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\二叉树1\project1\treenode.c(80): warning C4024: “_InOrderThd”: 形参和实参 2 的类型不同
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\二叉树1\project1\treenode.c(84): warning C4047: “=”:“BinTreeNode *”与“PNode *”的间接级别不同
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\二叉树1\project1\treenode.c(87): warning C4047: “初始化”:“PNode *”与“PNode”的间接级别不同
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\二叉树1\project1\treenode.c(102): error C2084: 函数“void InOrderThd(PNode)”已有主体
+                 c:\users\lenovo、\documents\visual studio 2013\projects\二叉树1\project1\treenode.h(37) : 参见“InOrderThd”的前一个定义
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\二叉树1\project1\treenode.c(109): error C2082: 形参“prev”的重定义
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\二叉树1\project1\treenode.c(113): warning C4047: “函数”:“PNode *”与“PNode **”的间接级别不同
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\二叉树1\project1\treenode.c(113): warning C4024: “_PostOrderThd”: 形参和实参 2 的类型不同
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\二叉树1\project1\treenode.c(172): error C2084: 函数“void PreOrderThd(PNode)”已有主体
+                 c:\users\lenovo、\documents\visual studio 2013\projects\二叉树1\project1\treenode.h(33) : 参见“PreOrderThd”的前一个定义
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\二叉树1\project1\treenode.c(186): error C2084: 函数“void _PostOrderThd(PNode,PNode *)”已有主体
+                 c:\users\lenovo、\documents\visual studio 2013\projects\二叉树1\project1\treenode.h(40) : 参见“_PostOrderThd”的前一个定义
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\二叉树1\project1\treenode.c(191): error C2084: 函数“void PostOrderThd(PNode)”已有主体
+                 c:\users\lenovo、\documents\visual studio 2013\projects\二叉树1\project1\treenode.h(41) : 参见“PostOrderThd”的前一个定义
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\二叉树1\project1\treenode.c(197): error C2084: 函数“void PreOrderD(PNode)”已有主体
+                 c:\users\lenovo、\documents\visual studio 2013\projects\二叉树1\project1\treenode.h(44) : 参见“PreOrderD”的前一个定义
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\二叉树1\project1\treenode.c(207): error C2084: 函数“void PreOrder(PNode)”已有主体
+                 c:\users\lenovo、\documents\visual studio 2013\projects\二叉树1\project1\treenode.c(151) : 参见“PreOrder”的前一个定义
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\二叉树1\project1\treenode.c(212): error C2084: 函数“void InOrderD(PNode)”已有主体
+                 c:\users\lenovo、\documents\visual studio 2013\projects\二叉树1\project1\treenode.h(47) : 参见“InOrderD”的前一个定义
+         正在生成代码...
+     1>已完成生成项目“c:\Users\lenovo、\documents\visual studio 2013\Projects\二叉树1\Project1\Project1.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.84
