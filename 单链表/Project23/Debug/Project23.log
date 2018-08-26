@@ -1,0 +1,29 @@
+﻿生成启动时间为 2018/2/2 18:34:03。
+     1>项目“C:\Users\lenovo、\Documents\Visual Studio 2013\Projects\单链表\Project23\Project23.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt linklist.c tset.c
+         tset.c
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\单链表\project23\tset.c(16): warning C4047: “函数”:“PNode”与“Node **”的间接级别不同
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\单链表\project23\tset.c(16): warning C4024: “SListPrint”: 形参和实参 1 的类型不同
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\单链表\project23\tset.c(19): warning C4047: “函数”:“PNode”与“Node **”的间接级别不同
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\单链表\project23\tset.c(19): warning C4024: “SListPrint”: 形参和实参 1 的类型不同
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\单链表\project23\tset.c(22): warning C4047: “函数”:“PNode”与“Node **”的间接级别不同
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\单链表\project23\tset.c(22): warning C4024: “SListPrint”: 形参和实参 1 的类型不同
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\单链表\project23\tset.c(27): warning C4047: “函数”:“PNode”与“Node **”的间接级别不同
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\单链表\project23\tset.c(27): warning C4024: “Find”: 形参和实参 1 的类型不同
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\单链表\project23\tset.c(28): error C2374: “pos”: 重定义；多次初始化
+                 c:\users\lenovo、\documents\visual studio 2013\projects\单链表\project23\tset.c(6) : 参见“pos”的声明
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\单链表\project23\tset.c(32): warning C4047: “函数”:“PNode”与“Node **”的间接级别不同
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\单链表\project23\tset.c(32): warning C4024: “SListPrint”: 形参和实参 1 的类型不同
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\单链表\project23\tset.c(35): warning C4047: “函数”:“PNode”与“Node **”的间接级别不同
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\单链表\project23\tset.c(35): warning C4024: “SListPrint”: 形参和实参 1 的类型不同
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\单链表\project23\tset.c(38): warning C4013: “Size”未定义；假设外部返回 int
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\单链表\project23\tset.c(41): warning C4013: “Empty”未定义；假设外部返回 int
+     1>c:\users\lenovo、\documents\visual studio 2013\projects\单链表\project23\tset.c(44): warning C4013: “SListDestroy”未定义；假设外部返回 int
+         linklist.c
+         正在生成代码...
+     1>已完成生成项目“C:\Users\lenovo、\Documents\Visual Studio 2013\Projects\单链表\Project23\Project23.vcxproj”(Rebuild 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.93
